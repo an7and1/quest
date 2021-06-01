@@ -1,0 +1,17 @@
+form {
+    width: 450px;
+}
+
+.form-control {
+    border-radius: 5px;
+    border-color: #ccc;
+}
+
+button {
+    background-color: #32883B;
+    color: #fff;
+}
+
+.error {
+    border-color: red;
+}
